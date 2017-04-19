@@ -1,4 +1,7 @@
-# test coverage for  [css-mqpacker (v5.0.1)](https://github.com/hail2u/node-css-mqpacker)  [![npm package](https://img.shields.io/npm/v/npmtest-css-mqpacker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-mqpacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-mqpacker.svg)](https://travis-ci.org/npmtest/node-npmtest-css-mqpacker)
+# npmtest-css-mqpacker
+
+#### test coverage for  [css-mqpacker (v5.0.1)](https://github.com/hail2u/node-css-mqpacker)  [![npm package](https://img.shields.io/npm/v/npmtest-css-mqpacker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-mqpacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-mqpacker.svg)](https://travis-ci.org/npmtest/node-npmtest-css-mqpacker)
+
 #### Pack same CSS media query rules into one media query rule.
 
 [![NPM](https://nodei.co/npm/css-mqpacker.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/css-mqpacker)
