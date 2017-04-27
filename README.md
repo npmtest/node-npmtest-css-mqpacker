@@ -1,6 +1,6 @@
 # npmtest-css-mqpacker
 
-#### test coverage for  [css-mqpacker (v5.0.1)](https://github.com/hail2u/node-css-mqpacker)  [![npm package](https://img.shields.io/npm/v/npmtest-css-mqpacker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-mqpacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-mqpacker.svg)](https://travis-ci.org/npmtest/node-npmtest-css-mqpacker)
+#### basic test coverage for  [css-mqpacker (v5.0.1)](https://github.com/hail2u/node-css-mqpacker)  [![npm package](https://img.shields.io/npm/v/npmtest-css-mqpacker.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-css-mqpacker) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-css-mqpacker.svg)](https://travis-ci.org/npmtest/node-npmtest-css-mqpacker)
 
 #### Pack same CSS media query rules into one media query rule.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-css-mqpacker/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-css-mqpacker/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-css-mqpacker/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-css-mqpacker/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-css-mqpacker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-css-mqpacker/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-css-mqpacker/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-css-mqpacker/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-css-mqpacker/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-css-mqpacker/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-css-mqpacker/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-css-mqpacker/build/coverage.html/index.html)
 
